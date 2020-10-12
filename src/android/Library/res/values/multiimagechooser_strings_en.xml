@@ -2,12 +2,10 @@
 <resources>
     <string name="multi_app_name">MultiImageChooser</string>
     <string name="free_version_label">Free version - Images left: %d</string>
-    <string name="error_database">There was an error opening the images database. Please report the problem.</string>
-    <string name="requesting_thumbnails">Requesting thumbnails, please be patient</string>
-    <string name="multi_image_picker_processing_images_title">Processing images</string>
-    <string name="multi_image_picker_processing_images_message">This may take a moment</string>
-    <string name="discard" translatable="false">Cancel</string>
-    <string name="done" translatable="false">OK</string>
-    <string name="max_count_photos_title">Maximum %d Photos</string>
-    <string name="max_count_photos_message">You can only select %d photos at a time.</string>
+    <string name="error_database">打开图库时出错,请报告问题。</string>
+    <string name="requesting_thumbnails">获取缩略图,请稍等。</string>
+    <string name="multi_image_picker_processing_images_title">处理图像中</string>
+    <string name="multi_image_picker_processing_images_message">这可能需要一点时间</string>
+    <string name="discard" translatable="false">取消</string>
+    <string name="done" translatable="false">完成</string>
  </resources>
